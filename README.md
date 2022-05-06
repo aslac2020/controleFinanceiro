@@ -16,6 +16,9 @@ Consiste em um app de controle financeiro de entrada e saidas, gravando os dados
 - JavaScript
 - REACT.JS
 
+# Hospedagem
+aslac2020-controlefinanceiro.netlify.app
+
 # Autor
 
 André de Sousa Lacerda
